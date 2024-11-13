@@ -10,5 +10,5 @@ This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/c
 * Install normalize extension.
 * On summary screen for contact, edit and save the phone, find out the code and generate the flag.
 
-## Known Issues
+![Screenshot](/images/phones_country.png)
 
